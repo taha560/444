@@ -278,9 +278,9 @@ function create_config( )
     moderation = {data = 'data/moderation.json'},
     about_text = [[
     MehdiHcker Bot 
-    admin : @pic5all
-    owner : @pic5all
-    ourchannel : @pic4all]],
+    admin : @tahajk
+    owner : @tahajk
+    ourchannel : 
     help_text_realm = [[ 
     MehdiHacker SuperGroup Commands:
 
